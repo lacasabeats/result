@@ -1,5 +1,4 @@
 body {
-
     font-family: 'Hanken Grotesk', sans-serif;
 
 }
@@ -128,12 +127,10 @@ body {
 }
 
 
-
-
 .general {
     
     display: flex;
-    width: 30%;
+    width: 50%;
     padding: 10%;
     margin:auto;
     line-height: 1.5rem;
