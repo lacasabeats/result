@@ -130,7 +130,7 @@ body {
 .general {
     
     display: flex;
-    width: 50%;
+    width: 100%;
     padding: 10%;
     margin:auto;
     line-height: 1.5rem;
